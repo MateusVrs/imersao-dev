@@ -11,8 +11,8 @@ var notaTotal = (notaPrimeiroBimestre + notaSegundoBimestre + notaTerceiroBimest
 
 console.log("Bem vindo " + nome);
 
-var helloP = document.querySelector(".greeting");
-var noteP = document.querySelector(".person-note");
+const helloP = document.querySelector(".greeting");
+const noteP = document.querySelector(".person-note");
 
 window.helloP.innerText = "Bem vindo, " + nome;
 window.noteP.innerText = "Sua nota final é " + notaTotal;
