@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="../../images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Conversor de temperatura - Imersão Dev</title>
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="page-title">
+            Conversor de temperatura
+        </h1>
+        <p class="page-subtitle">
+            Descubra os valores em outras temperaturas
+        </p>
+        <img src="https://www.alura.com.br/assets/img/imersoes/dev-2021/logo-imersao-conversor-de-moedas.svg"
+            class="page-logo" alt=""><br><br>
+        <label for="valor">Insira o valor em ºC</label><br>
+        <input type="number" id="valor" size="2" /><br>
+
+        <label for="unit-temp">Unidade da temperatura</label> <br>
+        <select name="temperatura" id="unit-temp">
+            <option value="">Escolha unidade</option>
+            <option value="kelvin">Kelvin</option>
+            <option value="fahrenheit">Fahrenheit</option>
+        </select> <br>
+
+        <button type="submit" onclick="Converter()">Converter</button>
+        <h2 id="valorConvertido"></h2>
+    </div>
+    <a href="https://alura.com.br/" target="_blank">
+        <img src="https://www.alura.com.br/assets/img/home/alura-logo.svg" alt="" class="alura-logo">
+    </a>
+    <script src="script.js" type="text/javascript"></script>
+</body>
+
+</html>
