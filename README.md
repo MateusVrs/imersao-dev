@@ -12,4 +12,5 @@ Esse repositório é destinado para todos os projetos e aprendizados da Imersão
 - [x] Aula 01 - Variáveis, operações e média
 - [x] Aula 02 - Conversor de moedas
 - [x] Aula 03 - Mentalista
-- [ ] Aula 04 - Array, lista e AluraFlix
+- [x] Aula 04 - Array, lista e AluraFlix
+- [ ] Aula 05 - Funções no AluraFlix
