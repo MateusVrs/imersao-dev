@@ -13,4 +13,6 @@ Esse repositório é destinado para todos os projetos e aprendizados da Imersão
 - [x] Aula 02 - Conversor de moedas
 - [x] Aula 03 - Mentalista
 - [x] Aula 04 - Array, lista e AluraFlix
-- [ ] Aula 05 - Funções no AluraFlix
+- [x] Aula 05 - Funções no AluraFlix
+- [x] Aula 06 - Objetos e Tabelas de classificação
+- [ ] Aula 07 - SuperTrunfo - lógica do jogo
