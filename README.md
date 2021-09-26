@@ -16,4 +16,4 @@ Esse repositório é destinado para todos os projetos e aprendizados da Imersão
 - [x] Aula 05 - Funções no AluraFlix
 - [x] Aula 06 - Objetos e Tabelas de classificação
 - [x] Aula 07 - SuperTrunfo - lógica do jogo
-- [ ] Aula 08 - SuperTrunfo - Cartas do jogo
+- [x] Aula 08 - SuperTrunfo - Cartas do jogo
