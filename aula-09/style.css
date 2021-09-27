@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
+
+:root {
+    --xy-foto-perfil: 125px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-image: linear-gradient(235deg, hsl(130, 100%, 15%), hsl(115, 42%, 50%));
+    background-repeat: no-repeat;
+    font-family: 'Open Sans', sans-serif;
+    height: 100vh;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.card {
+    background-color: hsl(130, 25%, 80%);
+    border-radius: 20px;
+    color: #1c1c1c;
+    box-shadow: 6px 6px 6px hsla(124, 54%, 12%, 0.6);
+    padding: 25px;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+}
+
+#foto-perfil {
+    border-radius: 50%;
+    width: var(--xy-foto-perfil);
+    height: var(--xy-foto-perfil);
+    margin-right: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.projects {
+    display: flex;
+    flex-direction: column;
+    margin: 30px;
+}
+
+.projects h2 {
+    text-align: center;
+}
+
+.projects ul {
+    list-style: circle;
+}
+
+.projects a {
+    text-decoration: none;
+    color: #1c1c1c;
+}
+
+.projects a:hover {
+    text-decoration: underline;
+    color: hsl(131, 100%, 10%);
+}
