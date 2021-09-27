@@ -17,3 +17,5 @@ Esse repositório é destinado para todos os projetos e aprendizados da Imersão
 - [x] Aula 06 - Objetos e Tabelas de classificação
 - [x] Aula 07 - SuperTrunfo - lógica do jogo
 - [x] Aula 08 - SuperTrunfo - Cartas do jogo
+- [x] Aula 09 - Figma, HTML e CSS
+- [x] Aula 10 - Portfólio
